@@ -50,5 +50,4 @@ Deploy em Cloud
 
 ## Contato
 
-LinkedIn: linkedin.com/in/guilherme-bortoletto  
 Email: bortolettodev@gmail.com
