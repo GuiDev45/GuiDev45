@@ -6,6 +6,8 @@ Desenvolvedor Fullstack com cerca de 3 anos de experiência em desenvolvimento w
 
 Atualmente trabalho na Geplant Tecnologia Florestal como Desenvolvedor Backend Junior com Node.js e Google Cloud (GCP), participando também de melhorias no frontend e mobile com React e React Native.
 
+Atualmente também estou estudando Python, com foco em desenvolvimento backend, automações e análise de dados.
+
 ---
 
 ## Tecnologias
