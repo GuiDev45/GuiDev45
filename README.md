@@ -1,53 +1,60 @@
 # Guilherme Bortoletto
-Desenvolvedor Fullstack (React | Node.js | TypeScript)
-Piracicaba – SP, Brasil
 
-Desenvolvedor Fullstack com cerca de 3 anos de experiência em desenvolvimento web e mobile utilizando React, Node.js e bancos SQL.
+**Desenvolvedor Fullstack Júnior (React | Node.js | TypeScript)**  
+Piracicaba – SP, Brasil  
 
-Atualmente trabalho na Geplant Tecnologia Florestal como Desenvolvedor Backend Junior com Node.js e Google Cloud (GCP), participando também de melhorias no frontend e mobile com React e React Native.
+---
 
-Atualmente também estou estudando Python, com foco em desenvolvimento backend, automações e análise de dados.
+## Sobre mim
+
+Desenvolvedor Fullstack com **2+ anos de experiência profissional (3 anos incluindo estágio)** em desenvolvimento web e mobile utilizando React, Node.js e bancos SQL.
+
+Atualmente atuo como **Desenvolvedor Backend Júnior**, trabalhando com Node.js e Google Cloud, contribuindo também em melhorias no frontend web e mobile com React e React Native.
+
+Também estou estudando **Python**, com foco em desenvolvimento backend, automações e análise de dados.
 
 ---
 
 ## Tecnologias
 
-Frontend
-React, TypeScript, JavaScript, React Native, HTML, CSS, Mapbox, Leaflet, Chart.js
+### Frontend
+React, React Native, TypeScript, JavaScript, HTML, CSS, Mapbox, Leaflet, Chart.js
 
-Backend
+### Backend
 Node.js, Express, Sequelize, APIs REST, JWT
 
-Banco de Dados
+### Banco de Dados
 PostgreSQL, MySQL, SQL Server, Oracle
 
-Testes
+### Testes
 Cypress (E2E), Vitest (unitários)
 
-Cloud
+### Cloud
 Google Cloud (GCP), Secret Manager
 
 ---
 
 ## Experiências Relevantes
 
-• Migração de Leaflet para Mapbox com aproximadamente 70% de melhoria na performance  
-• Otimização de queries Node.js reduzindo carga no banco de dados  
-• Implementação de testes E2E com Cypress executados automaticamente em Pull Requests  
-• Desenvolvimento de funcionalidades de mapas geoespaciais e dashboards interativos  
+- Migração de Leaflet para Mapbox com aproximadamente **70% de melhoria de performance**
+- Otimização de queries Node.js reduzindo carga no banco de dados
+- Implementação de testes E2E com Cypress executados automaticamente em Pull Requests
+- Desenvolvimento de funcionalidades de mapas geoespaciais e dashboards interativos
 
 ---
 
-## Projetos (em preparação)
+## Projetos
 
-Estou preparando projetos fullstack com:
-React + Node.js + PostgreSQL  
-Autenticação JWT  
-Testes automatizados  
-Deploy em Cloud  
+Projetos fullstack com:
+- React + Node.js + PostgreSQL  
+- Autenticação JWT  
+- Testes automatizados  
+- Deploy em Cloud  
+
+*(Links em breve)*
 
 ---
 
 ## Contato
 
-Email: bortolettodev@gmail.com
+Email: **bortolettodev@gmail.com**
