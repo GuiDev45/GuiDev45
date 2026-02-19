@@ -7,11 +7,11 @@ Piracicaba – SP, Brasil
 
 ## Sobre mim
 
-Desenvolvedor Fullstack com **2+ anos de experiência profissional (3 anos incluindo estágio)** em desenvolvimento web e mobile utilizando React, Node.js e bancos SQL.
+Desenvolvedor Fullstack com 2+ anos de experiência profissional (3 anos incluindo estágio) em desenvolvimento web e mobile utilizando React, Node.js e bancos SQL.
 
-Atualmente atuo como **Desenvolvedor Backend Júnior**, trabalhando com Node.js e Google Cloud, contribuindo também em melhorias no frontend web e mobile com React e React Native.
+Atualmente atuo na Geplant Tecnologia Florestal como Desenvolvedor Backend Júnior, trabalhando com Node.js e Google Cloud e contribuindo também em melhorias no frontend web e mobile com React e React Native.
 
-Também estou estudando **Python**, com foco em desenvolvimento backend, automações e análise de dados.
+Também estou estudando Python com foco em backend, automações e análise de dados.
 
 ---
 
